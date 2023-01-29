@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="atlaslib",  # 模块名称
-    version="1.2",  # 当前版本
+    version="1.3",  # 当前版本
     author="xero",  # 作者
     author_email="whitexero@outlook.com",  # 作者邮箱
     description="AtlasLib by NorthLight Team",  # 模块简介

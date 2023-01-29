@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: atlaslib
+Version: 1.2
+Summary: AtlasLib by NorthLight Team
+Home-page: https://github.com/WhiteXero/atlaslib
+Author: xero
+Author-email: whitexero@outlook.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# AtlasLib
+## Author : Xero (NorthLight Team)
+
+Requires Python 3.

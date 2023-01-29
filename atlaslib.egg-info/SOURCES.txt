@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+atlaslib/__init__.py
+atlaslib/loader.py
+atlaslib.egg-info/PKG-INFO
+atlaslib.egg-info/SOURCES.txt
+atlaslib.egg-info/dependency_links.txt
+atlaslib.egg-info/top_level.txt

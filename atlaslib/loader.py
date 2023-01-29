@@ -10,5 +10,3 @@ def socket_loader(socket_size):
         sys.stdout.flush()
         time.sleep(socket_wait)
     print('\n')
-    
-socket_loader(1000)
